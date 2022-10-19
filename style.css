@@ -16,5 +16,12 @@
         color:rgb(161, 0, 0);
         font-family:Georgia;
         font:size 48px;
+        
+    }
+    p{
         text-align:center;
     }
+    ul{
+        color: rgb(255, 0, 0);
+    }
+    
